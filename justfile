@@ -1,5 +1,5 @@
 proto_dir := "proto"
-out_dir := "src/gen"
+out_dir := "src/contracts/gen"
 
 gen:
     mkdir -p {{out_dir}}
